@@ -1,0 +1,5 @@
+click
+psutil
+pillow
+colorama
+rich
